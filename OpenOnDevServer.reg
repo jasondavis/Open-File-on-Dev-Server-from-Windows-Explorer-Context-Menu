@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_CLASSES_ROOT\*\shell\OpenOnDevServer]
+@="Open on Dev Server"
+[HKEY_CLASSES_ROOT\*\shell\OpenOnDevServer\command]
+@="\"G:\\Server\\OpenOnDevServer.exe\" \"%1\""
